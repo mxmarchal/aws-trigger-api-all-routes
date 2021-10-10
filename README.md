@@ -1,0 +1,1 @@
+# aws-trigger-api-all-routes
